@@ -9,7 +9,7 @@
 ### Code to draw Figure S2 (c) - Varying h, the species affinity for the modified habitat.
 
 ### Set the simulation space
-## N = dimension of the landscape 
+## N = dimension of the landscape
 ## P = Proportion of native habitat remaining in the landscape (from 0 to 1, where 1 is all native habitat remaings)
 ## D = The dimension of the smallest square ( If 1 and N=1, 1x1 is the first dimension, if 0.1 and N=1, 0.1 x 0.1 is the first dimnsion,)
 ## h = Affinity for the modified habitat
