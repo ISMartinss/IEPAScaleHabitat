@@ -9,7 +9,7 @@
 ### Code to draw Figure S2 (a) - Varying P, the amount of native habitat left in the landscape.
 
 ### Set the simulation space
-## N = dimension of the landscape 
+## N = dimension of the landscape
 ## P = Proportion of native habitat remaining in the landscape (from 0 to 1, where 1 is all native habitat remaings)
 ## D = The dimension of the smallest square ( If 1 and N=1, 1x1 is the first dimension, if 0.1 and N=1, 0.1 x 0.1 is the first dimnsion,)
 ## h = Affinity for teh modified habitat
